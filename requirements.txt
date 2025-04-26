@@ -4,3 +4,7 @@ langgraph
 langchain-ollama
 langchain-groq
 python-dotenv
+wikipedia
+ipykernel
+ipython
+duckduckgo-search
