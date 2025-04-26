@@ -5,6 +5,3 @@ pip install -r requirements.txt
 https://console.groq.com/keys
 
 GROQ_API_KEY = "your api key"
-
-
-
